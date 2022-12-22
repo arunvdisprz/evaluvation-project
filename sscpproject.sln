@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sscpback", "sscpback\sscpback.csproj", "{3043DD3D-21F9-4036-95BA-6864E34E96A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sscpback.unittest", "sscpback.unittest\sscpback.unittest.csproj", "{238B9BC9-2376-44F9-AD1C-E0428F69499D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3043DD3D-21F9-4036-95BA-6864E34E96A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3043DD3D-21F9-4036-95BA-6864E34E96A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3043DD3D-21F9-4036-95BA-6864E34E96A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3043DD3D-21F9-4036-95BA-6864E34E96A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{238B9BC9-2376-44F9-AD1C-E0428F69499D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{238B9BC9-2376-44F9-AD1C-E0428F69499D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{238B9BC9-2376-44F9-AD1C-E0428F69499D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{238B9BC9-2376-44F9-AD1C-E0428F69499D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
